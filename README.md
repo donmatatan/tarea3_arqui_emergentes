@@ -1,7 +1,13 @@
 # tarea3_arqui_emergentes
-![Captura de pantalla de 2024-07-18 00-15-13](https://github.com/user-attachments/assets/20f4bf63-63b5-456d-8c23-1087847bc386)
-![Captura de pantalla de 2024-07-18 00-14-33](https://github.com/user-attachments/assets/c604cdf9-0033-476f-ab80-d05f4358c83f)
-![Captura de pantalla de 2024-07-18 00-13-44](https://github.com/user-attachments/assets/55cc4c78-6979-4dda-a464-d1d27db85412)
-![Captura de pantalla de 2024-07-18 00-13-03](https://github.com/user-attachments/assets/eb9dadb4-3e0b-45d9-afb7-268608be2a0a)
-![Captura de pantalla de 2024-07-18 00-08-42](https://github.com/user-attachments/assets/2faeae2e-bf8c-4e30-8c12-ec02ef208c55)
-![Captura de pantalla de 2024-07-18 00-07-27](https://github.com/user-attachments/assets/0f738b8d-1966-4f62-ae1e-5b70d7bf6ca8)
+Insercion de locación 1:
+![Captura de pantalla de 2024-07-18 00-07-27](https://github.com/user-attachments/assets/577c37fb-c63c-4fc7-8c3f-b69d0adf6e9a)
+Insercion de locación 2:
+![Captura de pantalla de 2024-07-18 00-08-42](https://github.com/user-attachments/assets/0d6a09a8-0a6a-4b41-8b95-7a42cf6d01fc)
+Insercion de sensor 1 de locación 1:
+![Captura de pantalla de 2024-07-18 00-13-03](https://github.com/user-attachments/assets/ed644a20-1353-4a89-9aa2-a209ffb526a9)
+Insercion de sensor 2 de locación 1:
+![Captura de pantalla de 2024-07-18 00-13-44](https://github.com/user-attachments/assets/a1899bc4-7eeb-47e7-b6ee-9723361f6e8e)
+Insercion de sensor 3 de locación 2:
+![Captura de pantalla de 2024-07-18 00-14-33](https://github.com/user-attachments/assets/a368baa7-e78a-4620-8e67-cf68e588a893)
+Insercion de sensor 4 de locación 2:
+![Captura de pantalla de 2024-07-18 00-15-13](https://github.com/user-attachments/assets/c6548c42-5803-4514-9588-6a902ff7823f)
